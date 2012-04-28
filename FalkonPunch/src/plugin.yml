@@ -1,0 +1,10 @@
+name: FalkonPunch
+author: CXdur
+main: me.cxdur.FalkonPunch.FalkonPunch
+description: Plugin for utviklersoknad
+version: 1.0
+commands:
+    falkonpunch:
+      description: Aktivere FalkonPunch
+      usage: |
+             /<command>
